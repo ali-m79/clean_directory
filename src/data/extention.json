@@ -1,0 +1,55 @@
+{
+    "Picture": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".bmp"
+    ],
+    "Video": [
+        ".mp4",
+        ".mkv",
+        ".avi",
+        ".mov"
+    ],
+    "Music": [
+        ".mp3",
+        ".wav",
+        ".flac",
+        ".aac"
+    ],
+    "Documents": [
+        ".txt",
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".xls",
+        ".xlsx",
+        ".ppt",
+        ".pptx"
+    ],
+    "Compressed": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz",
+        ".bz2"
+    ],
+    "Programs": [
+        ".exe",
+        ".msi",
+        ".apk",
+        ".dmg"
+    ],
+    "torrents": [
+        ".torrent"
+    ],
+    "Data": [
+        ".csv",
+        ".json"
+    ],
+    "Fonts": [
+        ".ttf"
+    ]
+}
